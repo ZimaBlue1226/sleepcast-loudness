@@ -1,0 +1,4 @@
+interface:
+  display_name: "SleepCast Loudness"
+  short_description: "Measure and tune VelaSleep SleepCast loudness"
+  default_prompt: "Use $sleepcast-loudness to analyze and tune a VelaSleep SleepCast WAV file."
